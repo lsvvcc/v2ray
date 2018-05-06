@@ -6,3 +6,5 @@ git clone https://github.com/1529591487/v2ray.git
 cd v2ray
 chmod +x install.sh
 ./install.sh local
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/1529591487/v2ray/master/install.sh" && chmod +x install.sh && ./install.sh
